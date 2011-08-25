@@ -1,0 +1,9 @@
+name = Tode
+description = First time this field will be used, it will create a new term with the value inserted in the textfield, after that, the term (tid) will always be the same, just update term name by updating the value of the field. You can keep synchronized a fixe term with a node, you can set an auto title from this field, The required, number of value at 1 and term_node synch of global field are required
+project = "Tode"
+dependencies[] = taxonomy
+dependencies[] = field
+package = gui
+version = "7.x-0.dev"
+core = "7.x"
+
